@@ -203,11 +203,11 @@ def blacktechx_hacx_banner() -> None:
 
 def display_options() -> None:
     """Displays the main menu options."""
-    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "1" + Fore.LIGHTCYAN_EX + " ]" + w + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Hacx GPT")
-    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "2" + Fore.LIGHTCYAN_EX + " ]" + w + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Key Configure")
-    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "3" + Fore.LIGHTCYAN_EX + " ]" + w + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " About us")
-    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "4" + Fore.LIGHTCYAN_EX + " ]" + w + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Update")
-    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "5" + Fore.LIGHTCYAN_EX + " ]" + w + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Exit")
+    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "1" + Fore.LIGHTCYAN_EX + " ]" + Fore.WHITE + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Hacx GPT")
+    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "2" + Fore.LIGHTCYAN_EX + " ]" + Fore.WHITE + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Key Configure")
+    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "3" + Fore.LIGHTCYAN_EX + " ]" + Fore.WHITE + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " About us")
+    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "4" + Fore.LIGHTCYAN_EX + " ]" + Fore.WHITE + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Update")
+    Type(Fore.LIGHTCYAN_EX + "[ " + Fore.WHITE + "5" + Fore.LIGHTCYAN_EX + " ]" + Fore.WHITE + "\033[1;37m BlackTechX " + Fore.LIGHTCYAN_EX + "||" + Fore.WHITE + " Exit")
     blacktechx_backslash()
 
 
