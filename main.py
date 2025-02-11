@@ -4,6 +4,7 @@ import time
 try:
     import colorama
     import openai
+    import dotenv
     from pwinput import pwinput
     from colorama import Fore
     from dotenv import load_dotenv
@@ -78,7 +79,7 @@ def blacktechx_backslash() -> None:
     print('\n')
 
 def Type(data):
-    print(Fore.LIGHTBLUE_EX + "└─ " + w + "\033[1;37m" + data)
+    print(Fore.LIGHTBLUE_EX + "└─ " + Fore.WHITE + "\033[1;37m" + data)
 
 
 def blacktechx_type_text(text: str, color: str = colors.WHITE, end: str = '\n', speed: float = 0.02) -> None:
