@@ -1,4 +1,4 @@
 colorama
-openai==0.28.0
+openai==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
 requests
 pwinput
